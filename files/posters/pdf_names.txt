@@ -1,0 +1,19 @@
+Managing an SIR Epidemic System via Optimal Control of Transmission Rate\tCOSIR_CHIL.pdf
+A Machine Learning Model for Predicting Deterioration of COVID-19 Inpatients\tCOVID19_deterioration_MLPCP_poster.pdf
+COVIDx-US: An Open Benchmark Ultrasound Imaging Dataset for AI-Driven COVID-19 Diagnosis\tCOVIDx-US_poster.pdf
+Drug Repurposing for Multiple COVID Strains using Collaborative Filtering\tDrugRepurposing - Poster.pdf
+epidemic log gaussian cox process: local laplace method and closed-forms\tEpidemicLGCP_Poster.pdf
+computationally accelerating protein-ligand docking for neglected tropical diseases: a case study on drug repurposing for leishmaniasis\tICLR 2021 Poster_ Computationally Accelerating Protein Ligand Matching_ A Case Study on Leishmaniasis (MLPCP).pdf
+Data-driven Optimization Model for Global Covid-19 Intervention Plans\tICLR_MLPCP2021_Data-driven Optimization Model for Global Covid-19 Intervention Plans_Poster.pdf
+Epidemic Model Guided Machine Learning for COVID-19 Forecasts\tICLR_Poster_covid.pdf
+Forecast-driven evidence of human mobility impacting the spread of COVID-19\tICLR_paper_post_USCDSL.pdf
+transformer neural network for structure constrained molecular optimization\tICLR_poster_jiazhen.pdf
+COVID-19 Detection from Chest X-ray Images using Imprinted Weights Approach\tImprinted weights approach-POSTERV2.pdf
+Predicting the Binding of SARS-CoV-2 Peptides to the Major Histocompatibility Complex with Recurrent Neural Networks\tPoster-ICLR2021-MLPCP-Vielhaben.pdf
+TOWARDS INTERPRETING ZOONOTIC POTENTIAL OF BETACORONAVIRUS SEQUENCES WITH ATTENTION\tZoonotic_betaCoV_Poster.pdf
+Real-time pathogenicity prediction during genome sequencing of novel viruses and bacteria\tbartoszewicz_mlpcp.pdf
+FedPandemic: A Cross-Device Federated Learning Approach Towards Elementary Prognosis of Diseases During a Pandemic\tICLR_Poster_FedPandemic.pdf
+Forecasting COVID-19 Counts At A Single Hospital: A Hierarchical Bayesian Approach\tForecasting COVID-19 Counts At A Single Hospital- A Hierarchical Bayesian Approach.pdf
+Light Attention predicts Protein Location from the Language of Life\tIclr poster.pdf
+Bayesian detection and uncertainty quantification of the first change point of the COVID-19 case curve in the Midwest: Timeliness of non-pharmaceutical interventions.\tSelvitellaFoster-ICLR2021-MLPCP-Poster3v3.pdf
+COVID-19 incidence in the Indiana's secondary school system through a Conditional Gaussian model and an age-structured compartmental model\tSelvitellaFoster-ICLR2021-MLPCP-Poster4v2.pdf

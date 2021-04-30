@@ -1,0 +1,20 @@
+TOWARDS INTERPRETING ZOONOTIC POTENTIAL OF BETACORONAVIRUS SEQUENCES WITH ATTENTION\thttps://us05web.zoom.us/j/6275394558?pwd=MTdIeUVKWXlZWFRSRUlIZEJyVFdadz09
+epidemic log gaussian cox process: local laplace method and closed-forms\thttps://zoom.us/j/8293929975?pwd=eExqZkhnVU5rSzVtcFNDNUk4VEFZZz09\t9QiBps
+FedPandemic: A Cross-Device Federated Learning Approach Towards Elementary Prognosis of Diseases During a Pandemic\thttps://cmu.zoom.us/j/4528841407
+Real-time pathogenicity prediction during genome sequencing of novel viruses and bacteria\thttps://us02web.zoom.us/j/6287702586?pwd=NDh6UHB6Z3lSVmpxK2NVcG5hUnlJdz09\t6dCDar
+Data-driven Optimization Model for Global Covid-19 Intervention Plans\thttps://georgian-io.zoom.us/j/93598136407?pwd=UHhxcGU5T21ES3RIUzhSY2N2RjZlQT09\t414997
+
+Forecast-driven evidence of human mobility impacting the spread of COVID-19\thttps://usc.zoom.us/j/97031854263?pwd=VWt6M1IrMThqS3lIK1Y5NkJmbFUvdz09
+Drug Repurposing for Multiple COVID Strains using Collaborative Filtering\thttps://uni-potsdam.zoom.us/j/62263262798\t62473754
+COVID-19 Detection from Chest X-ray Images using Imprinted Weights Approach\thttps://zoom.us/j/97268046973?pwd=QkxJN0NOQlJ2N3UwMXpMSi9PUHd4UT09\t953041
+Epidemic Model Guided Machine Learning for COVID-19 Forecasts\thttps://ucla.zoom.us/j/6613433410
+COVIDx-US: An Open Benchmark Ultrasound Imaging Dataset for AI-Driven COVID-19 Diagnosis\thttps://us02web.zoom.us/j/6666824838?pwd=WmJwOG0zMTk2aSt4bnd1UFJTYnR6Zz09\t123
+computationally accelerating protein-ligand docking for neglected tropical diseases: a case study on drug repurposing for leishmaniasis\thttps://mit.zoom.us/j/98664169889
+Light Attention predicts Protein Location from the Language of Life\thttps://tum-conf.zoom.us/my/hannesstark
+Managing an SIR Epidemic System via Optimal Control of Transmission Rate\thttps://cmu.zoom.us/j/99790647307?pwd=N0ZMdmVEcUpVZWRwbStLeHRaQllIZz09\t940413
+A Machine Learning Model for Predicting Deterioration of COVID-19 Inpatients\thttps://us02web.zoom.us/j/83898388117
+Predicting the Binding of SARS-CoV-2 Peptides to the Major Histocompatibility Complex with Recurrent Neural Networks\thttps://tu-berlin.zoom.us/j/66218391500?pwd=T2k0cy9zWGdTblg2a1BPY2ZDRlpqZz09\t123456
+Bayesian detection and uncertainty quantification of the first change point of the COVID-19 case curve in the Midwest: Timeliness of non-pharmaceutical interventions.\thttps://purdue-edu.zoom.us/j/91543205120?pwd=YVhvUCtqZ20zbGVDTU96Mi8vYS9PZz09\t094821
+COVID-19 incidence in the Indiana's secondary school system through a Conditional Gaussian model and an age-structured compartmental model\thttps://purdue-edu.zoom.us/j/91543205120?pwd=YVhvUCtqZ20zbGVDTU96Mi8vYS9PZz09\t094821
+transformer neural network for structure constrained molecular optimization\thttps://us05web.zoom.us/j/7675054970?pwd=K1UrOXE3TGoyS2loWm95Q2ZqT2tvdz09
+forecasting covid-19 counts at a single hospital: a hierarchical bayesian approach\thttps://tufts.zoom.us/j/92472220797?pwd=N2RKQ2p4K0RVMjdkb2ViZzlvNEV2Zz09
