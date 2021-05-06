@@ -19,3 +19,5 @@ COVID-19 incidence in the Indiana's secondary school system through a Conditiona
 transformer neural network for structure constrained molecular optimization\thttps://us05web.zoom.us/j/7675054970?pwd=K1UrOXE3TGoyS2loWm95Q2ZqT2tvdz09
 forecasting covid-19 counts at a single hospital: a hierarchical bayesian approach\thttps://tufts.zoom.us/j/92472220797?pwd=N2RKQ2p4K0RVMjdkb2ViZzlvNEV2Zz09
 HuggingMolecules: an open-source library for transformer-based molecular property prediction\thttps://us05web.zoom.us/j/83516102245?pwd=YWxFOWVIVVBMUTkxcTBNN0h4OHdxdz09\tABhW1Y
+Conditional Synthetic Data Generation for Robust Machine Learning Applications with Limited Pandemic Data\thttps://berkeley.zoom.us/j/92825410697?pwd=WW1NMHZneTdFZjJVYUVlNkpaU1h6Zz09\t952794
+Impact of data-splits on generalization: Identifying COVID-19 from cough and context\thttps://wadhwaniai-org.zoom.us/j/81547132494?pwd=cGZwTkI5YzgrYjRyRVNPbG5BQUxEUT09\t416278
